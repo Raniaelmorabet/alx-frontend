@@ -1,6 +1,6 @@
 # 0x06. Responsive design
 
-## Description:bulb:
+## Description: 
 How to build responsive websites
 
 * Mobile-first design
